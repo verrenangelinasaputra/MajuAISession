@@ -1,0 +1,3 @@
+AIzaSyDwlEvGpbBoA8V3uJD7OKdDdxWn8M4u93c
+
+npm install @google/generative-ai 
